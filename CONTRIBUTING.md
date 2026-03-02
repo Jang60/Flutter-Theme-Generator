@@ -8,3 +8,4 @@ Notes and usage details for Flutter-Theme-Generator.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
